@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(215, 250, 217);
+}
+#a{
+    background-color: rgb(146, 177, 177);
+    display: inline-block;
+}
+#personal_info{
+    text-align: center;
+    background-color: rgb(117, 117, 133);
+    padding: 5px;
+    margin:1px;
+    border: 3px dotted;
+    text-decoration: underline;
+}
+#p{
+    border: 3px dotted rgb(61, 0, 130);
+    border-radius: 1%;
+    float: right;
+    margin-right:5px;
+    padding:3px;
+    height:80px;
+    width:80px;
+    border-radius: 5%;
+}
+#education{
+    background-color: rgb(136, 25, 71);
+    padding: 5px;
+    margin:5px;
+    border:3px dotted
+}
+#skills{
+    background-color: rgb(142, 183, 196);
+    padding: 5px;
+    margin:5px;
+    border:3px dotted
+}
+#Project{
+    background-color: rgb(142, 183, 196);
+    padding: 5px;
+    margin:5px;
+    border:3px dotted
+}
+#certification{
+     background-color: rgb(142, 183, 196);
+    padding: 5px;
+    margin:5px;
+    border:3px dotted
+}
